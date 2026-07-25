@@ -284,3 +284,15 @@ https://lapse.hackclub.com/timelapse/cSW4kQ45cI7v
 
 
 **Total time spent: 55m**
+
+
+# July 23th: Started assembling everything on the PCB
+
+I started to solder everything onto my pcb- the leds, switches, headers, oled disp, MC, rotary encoders, JST connectors and diodes.
+The sk6812 were a pain to solder by hand, this is my first time hand soldering smd electronics so i underestimated how hard they would be with basic tools, the soldering iron, solder and the flux i had were of pretty poor quality so the solder almost never flowed properly. The leds probably took the longest (i even melted one 💀). the diodes, headers and jst connectors were comparatively easy to solder with the helping hand. The switches were too; just that i had to resolder almost everyone of them cuz they seemed tilted (i mightve gotten scammed, the cherry mx switches i gought didnt have those alignment things on their base) and make all of them properly aligned. I have to solder the mt 3608 and the tp4056 next
+
+https://lapse.hackclub.com/timelapse/PsYyGIHk7pCl
+
+<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e06ee952-e3cc-4471-94a5-e5c8f619b918" />
+
+**Total time spent: 5h 25m**
