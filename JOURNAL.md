@@ -296,3 +296,25 @@ https://lapse.hackclub.com/timelapse/PsYyGIHk7pCl
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/e06ee952-e3cc-4471-94a5-e5c8f619b918" />
 
 **Total time spent: 5h 25m**
+
+
+# July 25th: Debugged the PCB with components
+
+I tested the functionality of the pcb with everything soldered onto the pcb - the switches, LEDs, MC,headers, oled disp, rotary encoders, JST connectors and diodes. Everything worked, the leds were flashing and the keys were inputting numbers onto my pc, the display showed the bongo cat.
+
+https://lapse.hackclub.com/timelapse/tcPYSnsSdNUo
+
+<img width="486" height="409" alt="image" src="https://github.com/user-attachments/assets/7c91aa23-a81d-4bab-afce-78deebe7311b" />
+
+**Total time spent: 2h **
+
+
+# August 1th: Began CAD of the case
+
+I started working on the case on fusion, this is my first time on the software so i am still figuring stuff out. I imported the step file of the pcb from kicad, and used it as the reference to make the base of the pcb. I added bosses under each mounting hole and drilled it to fit heated inserts, this took a while as i couldnt figure out how to choose the base to extrude from, i kept selecting the pcb and the bosses came out of the pcb, i had to then make a new plane lol and finally did it. I also made the walls about 1mm away from the pcb to give some tolerance.
+
+https://lapse.hackclub.com/timelapse/vCLISJI7L-JC
+
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/0e989895-7337-470c-82da-4ec76686fefc" />
+
+**Total time spent: 2h **
