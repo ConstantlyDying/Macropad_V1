@@ -318,3 +318,14 @@ https://lapse.hackclub.com/timelapse/vCLISJI7L-JC
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/0e989895-7337-470c-82da-4ec76686fefc" />
 
 **Total time spent: 2h **
+
+
+# August 5th: Upper part of the case
+
+I made the upper part of the case, it got really confusing as to what i should project, extrude, shell etc, so i had to redo some stuff again cuz for some reason shell function is different here than onshape. Getting the cutouts right, and having the walls at the correct height took so long. I even made the oled display raised and facing me, this took a while as for some reason the edges were curved!!, i couldnt constraint properly etc etc, then i finally have something presentable now.
+
+https://lapse.hackclub.com/timelapse/Wlp1YO6IMYCs
+
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/7b6ec4e8-c031-45db-b938-257ef1c02a11" />
+
+**Total time spent: 5h 15m **
