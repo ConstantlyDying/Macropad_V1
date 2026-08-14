@@ -329,3 +329,29 @@ https://lapse.hackclub.com/timelapse/t9u9HI_tvhNb
 <img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/7b6ec4e8-c031-45db-b938-257ef1c02a11" />
 
 **Total time spent: 5h 15m **
+
+
+# August 9th: Polishing and final touches
+
+Polished everything, did checks on all the components. added chamfers fillets etc. Also added name and some text engravings. When i fixed something in a specific component early on in the timeline, the rest of the stuff like the sketches, chamfers and things which depended on this, this was a pain to fix, as its my first time on fusion, and had to redo some stuff here and there.
+Added the knobs too
+
+https://lapse.hackclub.com/timelapse/wzWPh33OKpZP
+
+<img width="1451" height="956" alt="image" src="https://github.com/user-attachments/assets/96ed127c-9edc-4ae0-bfff-e4ac6996494d" />
+<img width="879" height="447" alt="image" src="https://github.com/user-attachments/assets/97989e73-4ba7-4467-9c93-aec87c991207" />
+<img width="1280" height="832" alt="image" src="https://github.com/user-attachments/assets/acfd5794-9276-4b9d-bc73-5a6ecd3247d1" />
+
+**Total time spent: 3h **
+
+# August 14th: Keyswitch Cutout On Upper part of case
+
+Added the cutouts for keyswithces on the top part of the case cuz i just remembered, also filleted and polished it.
+Its done i think, maybe will do renders later.
+
+https://lapse.hackclub.com/timelapse/rpi19juy3fH7
+
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/404779e3-38c2-4047-bf05-5302c89f1b5b" />
+
+
+**Total time spent: 1h **
