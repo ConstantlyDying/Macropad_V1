@@ -362,6 +362,8 @@ https://lapse.hackclub.com/timelapse/rpi19juy3fH7
 The 3d prints finally arrived. I had to use weird methods to remove the supports from the top case, the curved prints looked a bit uneven, so ill have to fix that in my design next time. I made two versions for the bottom part, one is thincker and the other is slimmer. I then inserted the heated inserts with my soldering iron to both the bottom cases. I had do resolder the oled display with a jst connector instead of the header as i had to stick the display on the case, this took an awful lot of time as i didnt have a desoldering pump or wick. I then made the wires connecting the vibration motor to its driver and the driver connecting the driver to the pcb shorter, to save space inside the case. I then inserted the motors into their holes and screwed on the pcb and both the cases together.
 https://lapse.hackclub.com/timelapse/rpi19juy3fH7
 
+https://lapse.hackclub.com/timelapse/wpPop1HO6Bq8
+
 <img width="1536" height="2048" alt="0C5C566D-EEBF-43D0-92ED-6E436D2148A6_1_102_o" src="https://github.com/user-attachments/assets/d0493520-bcc3-42c8-90c3-85d43b3f1264" />
 <img width="1536" height="2048" alt="1144C3E7-0BA0-4276-B244-6303433435E0_1_102_o" src="https://github.com/user-attachments/assets/2b3a1fde-6d91-405e-bf91-0c395f06263a" />
 
