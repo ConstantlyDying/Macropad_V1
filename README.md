@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="assets/MacropadV1_LOGO.png"
+       alt="Macropad V1"
+       width="700">
+</p>
+
 ## NOTE:
 Will make the CAD and Firmware soon:)
 
