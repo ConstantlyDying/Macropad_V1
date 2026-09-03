@@ -24,7 +24,7 @@
 
 <p align="center">
 
-  <img src="assets/Macropad_V1.png" alt="Macropad V1" width="700">
+  <img src="assets/Macropad_V1.png" alt="Macropad V1" width="900">
 
 </p>
 
