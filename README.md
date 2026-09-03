@@ -1,4 +1,4 @@
-<img width="1019" height="729" alt="Screenshot 2026-09-03 at 1 07 09 PM" src="https://github.com/user-attachments/assets/a7959a8d-1ffe-4ee2-a0e6-11d4e0284d6a" />
+
 <p align="center">
   <img src="assets/MacropadV1_LOGO.png"
        alt="Macropad V1"
