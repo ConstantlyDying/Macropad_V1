@@ -24,7 +24,7 @@
 
 <p align="center">
 
-  <img src="assets/Macropad_V1.png" alt="Macropad V1" width="800">
+  <img src="assets/Macropad_V1.png" alt="Macropad V1" width="700">
 
 </p>
 
@@ -49,9 +49,7 @@ Designed in KiCad!
 
 ### Schematic
 
-<p align="center">
-
-  <img src="assets/Macropad_V1_sch.png" alt="Macropad V1 schematic" width="900">
+  <img src="assets/Macropad_V1_sch.png" alt="Macropad V1 schematic" width="750">
 
 </p>
 
@@ -59,18 +57,14 @@ Designed in KiCad!
 
 **Front:**
 
-<p align="center">
-
-  <img src="assets/Macropad_V1_PCB_Front.png" alt="Macropad V1 schematic" width="900">
+  <img src="assets/Macropad_V1_PCB_Front.png" alt="Macropad V1 schematic" width="750">
 
 </p>
 
 
 **Back:** 
 
-<p align="center">
-
-  <img src="assets/Macropad_V1_PCB_Back.png" alt="Macropad V1 schematic" width="900">
+  <img src="assets/Macropad_V1_PCB_Back.png" alt="Macropad V1 schematic" width="750">
 
 </p>
 
@@ -78,17 +72,13 @@ Designed in KiCad!
 
 **F_Cu:**
 
-<p align="center">
-
-  <img src="assets/F_Cu.png" alt="Macropad V1 schematic" width="900">
+  <img src="assets/F_Cu.png" alt="Macropad V1 schematic" width="750">
 
 </p>
 
 **B_Cu:**
 
-<p align="center">
-
-  <img src="assets/B_Cu.png" alt="Macropad V1 schematic" width="900">
+  <img src="assets/B_Cu.png" alt="Macropad V1 schematic" width="750">
 
 </p>
 
