@@ -22,8 +22,11 @@
 
 </div>
 
-<img width="5443" height="3062" alt="IMG_0485" src="https://github.com/user-attachments/assets/1306d6c4-bb57-4d93-9579-427a55bfa642" />
+<p align="center">
 
+  <img src="assets/Macropad_V1.png" alt="Macropad V1" width="800">
+
+</p>
 
 I've made this as in my experience off the shelf macropads are way too expensive for the features they offer and are also very generic.
 This is an alternative that is actually unique with multiple customizable switches, rotary encoders, a display, Wireless & Wired connectivity and insanely good haptics.
@@ -46,22 +49,52 @@ Designed in KiCad!
 
 ### Schematic
 
-### Front:
+<p align="center">
 
-<img width="1019" height="729" alt="Screenshot 2026-09-03 at 1 07 09 PM" src="https://github.com/user-attachments/assets/cb8cc3bf-c179-4dec-89ae-4d0560963f74" />
+  <img src="assets/Macropad_V1_sch.png" alt="Macropad V1 schematic" width="900">
 
-### Back: 
+</p>
 
-<img width="1015" height="719" alt="Screenshot 2026-09-03 at 1 08 18 PM" src="https://github.com/user-attachments/assets/c384b454-e76a-47fe-bca7-3a87beef0cff" />
+### PCB Layout:
+
+**Front:**
+
+<p align="center">
+
+  <img src="assets/Macropad_V1_PCB_Front.png" alt="Macropad V1 schematic" width="900">
+
+</p>
 
 
+**Back:** 
+
+<p align="center">
+
+  <img src="assets/Macropad_V1_PCB_Back.png" alt="Macropad V1 schematic" width="900">
+
+</p>
+
+### Copper Layers:
+
+**F_Cu:**
+
+<p align="center">
+
+  <img src="assets/F_Cu.png" alt="Macropad V1 schematic" width="900">
+
+</p>
+
+**B_Cu:**
+
+<p align="center">
+
+  <img src="assets/B_Cu.png" alt="Macropad V1 schematic" width="900">
+
+</p>
+
+Board dimensions: 115mm x 80mm
 
 
-# Schematics
-<img width="967" height="643" alt="Screenshot 2026-06-30 at 12 22 28 AM" src="https://github.com/user-attachments/assets/7fc7e8dc-42b9-428f-847a-203aa43e52eb" />
-
-
-I am using the TP4056 module for charging the battery; MT3608 for boosting the single cell voltage; DRV2605l for accurately driving the haptics motors; Raspberry Pi Pico W for controlling everything, one more reason as to why I chose this MC is its amount of GPIO's and wireless connectivity.
 
 # Bill Of Materials:
 
