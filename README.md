@@ -23,6 +23,14 @@
 </div>
 
 <p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#pcb">PCB</a> •
+  <a href="#case">Case</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#license">License</a>
+</p>
+
+<p align="center">
 
   <img src="assets/Macropad_V1.png" alt="Macropad V1" width="900">
 
