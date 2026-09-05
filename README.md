@@ -112,9 +112,20 @@ Features:
 <img src="renders/Render5.PNG" alt="Render 1" width="750"/>
 <img src="renders/Render3.PNG" alt="Render 1" width="750"/>
 <img src="renders/Render2.PNG" alt="Render 1" width="750"/>
-
+<img src="renders/Render1.PNG" alt="Render 1" width="750"/>
 
 ## Credits
+
+This project uses:
+
+- [KiCad](https://www.kicad.org/)
+- [Autodesk Fusion](https://www.autodesk.com/) for case design and renders
+- [RaspberryPi](https://www.raspberrypi.com)
+- [QMK](https://qmk.fm/) for the firmware
+
+## You may also like...
+
+- [Force-Feedback-Racing-Sim](https://github.com/ConstantlyDying/Force-Feedback-Racing-Sim) – A Budget friendly - DIY Racing simulator, powered by an Arduino Leonardo and a beefy 500w motor!!
 
 ## License
 
