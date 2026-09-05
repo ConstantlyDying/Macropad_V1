@@ -92,4 +92,24 @@ Designed in KiCad!
 
 Board dimensions: 115mm x 80mm
 
+## Case
 
+Custom designed case in Fusion 360 with practical features:
+
+<img src="assets/CAD_Front.png" alt="Case Front View" width="750"/>
+<img src="assets/CAD_Back.png" alt="Case Back View" width="750"/>
+
+Features:
+- **USB port cutout** with flush cable routing
+- **Raised-Angled Display** for easier status and profile viewing
+- **Heatset inserts** for secure assembly with slotted cylindrical head screws
+- **Rounded corners** for aesthetics and safety
+
+
+## 3D Renders
+
+## Credits
+
+## License
+
+MIT
