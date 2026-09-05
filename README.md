@@ -109,12 +109,9 @@ Features:
 ## 3D Renders
 
 <img src="renders/Render7.PNG" alt="Render 1" width="750"/>
-<img src="renders/Render6.PNG" alt="Render 1" width="750"/>
 <img src="renders/Render5.PNG" alt="Render 1" width="750"/>
-<img src="renders/Render4.PNG" alt="Render 1" width="750"/>
 <img src="renders/Render3.PNG" alt="Render 1" width="750"/>
 <img src="renders/Render2.PNG" alt="Render 1" width="750"/>
-<img src="renders/Render1.PNG" alt="Render 1" width="750"/>
 
 
 ## Credits
