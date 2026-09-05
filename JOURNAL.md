@@ -360,7 +360,6 @@ https://lapse.hackclub.com/timelapse/rpi19juy3fH7
 # August 29th: Assembly of Macropad
 
 The 3d prints finally arrived. I had to use weird methods to remove the supports from the top case, the curved prints looked a bit uneven, so ill have to fix that in my design next time. I made two versions for the bottom part, one is thincker and the other is slimmer. I then inserted the heated inserts with my soldering iron to both the bottom cases. I had do resolder the oled display with a jst connector instead of the header as i had to stick the display on the case, this took an awful lot of time as i didnt have a desoldering pump or wick. I then made the wires connecting the vibration motor to its driver and the driver connecting the driver to the pcb shorter, to save space inside the case. I then inserted the motors into their holes and screwed on the pcb and both the cases together.
-https://lapse.hackclub.com/timelapse/rpi19juy3fH7
 
 https://lapse.hackclub.com/timelapse/wpPop1HO6Bq8
 
@@ -369,3 +368,18 @@ https://lapse.hackclub.com/timelapse/wpPop1HO6Bq8
 
 
 **Total time spent: 2h 20m **
+
+# September 4-6th: Finishing and Polishing Repo
+
+Cleaned up my old repo, made it much more polished now. rearranged the folders and files neatly. Made renders of the macropad in fusion as idk about blender yet, not very satisfied with the render, might make new ones later!. I love how the readme turned out compared to my older repo's, definitely learnt something there!
+
+https://lapse.hackclub.com/timelapse/PuxxIOakvZ14
+https://lapse.hackclub.com/timelapse/toAW4w7KC8Dp
+
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/b3239029-d631-40c4-b31d-045cf16e88ad" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/0df8cdda-6633-4b4b-8a62-1d243b3ed52e" />
+<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/1e497166-9246-4136-82d4-e6fb9f56b644" />
+
+
+**Total time spent: 4h **
+
