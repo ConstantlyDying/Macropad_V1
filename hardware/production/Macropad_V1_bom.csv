@@ -1,0 +1,12 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,RaspberryPi_Pico_Common_THT,1,RaspberryPi_Pico_W,
+"D10, D13, D14, D15, D16, D17, D18, D20, D21, D22, D23",LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount,11,SK6812MINI-E,
+"D34, D35, D36, D37, D38, D39, D40, D41, D42, D44, D45",D_DO-35_SOD27_P7.62mm_Horizontal,11,1N4148,
+J1,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,1,MT3608 pins,
+J2,JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical,1,TP4056 pins,
+J3,JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical,1,Battery Pads,
+J5,JST_EH_B5B-EH-A_1x05_P2.50mm_Vertical,1,DRV2605l pins,
+"SW1, SW10, SW11, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9",SW_Cherry_MX_1.00u_PCB,11,SW_Push_45deg,
+"SW12, SW13",RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_MountingHoles,2,RotaryEncoder_Switch,
+SW14,JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical,1,SW_SPDT,
+U1,PinHeader_1x04_P2.54mm_Vertical,1,ER_OLEDM0.91_1x-I2C,
