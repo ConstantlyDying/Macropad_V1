@@ -127,6 +127,9 @@ This project uses:
 
 - [Force-Feedback-Racing-Sim](https://github.com/ConstantlyDying/Force-Feedback-Racing-Sim) – A Budget friendly - DIY Racing simulator, powered by an Arduino Leonardo and a beefy 500w motor!!
 
+### AI USAGE DECLARATION:
+Used AI for a little assistance with firmware as it is my first time programming in these languages
+
 ## License
 
 MIT
